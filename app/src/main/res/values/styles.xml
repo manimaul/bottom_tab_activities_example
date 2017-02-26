@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BottomTabActivityTheme" parent="AppTheme">
+        <!-- Remove Activity Animation for BottomTab selection-->
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+</resources>

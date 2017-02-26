@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_circle_activity"
+        android:title="@string/circle"
+        android:icon="@drawable/ic_circle" />
+    <item android:id="@+id/action_triangle_activity"
+        android:title="@string/triangle"
+        android:icon="@drawable/ic_triangle" />
+    <item android:id="@+id/action_square_activity"
+        android:title="@string/square"
+        android:icon="@drawable/ic_square" />
+</menu>

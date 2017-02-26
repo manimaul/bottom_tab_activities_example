@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+    <string name="circle">CIRCLE</string>
+    <string name="triangle">TRIANGLE</string>
+    <string name="square">SQUARE</string>
+    <string name="some_fragment">I\'m some fragment number:%d</string>
+    <string name="next">NEXT</string>
+</resources>
